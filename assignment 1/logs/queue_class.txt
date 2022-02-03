@@ -1,0 +1,56 @@
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 1
+Select queue (int : 1, double : 2, string : 3, Exit : 0) >> 1
+Push int >> 1
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 1
+Select queue (int : 1, double : 2, string : 3, Exit : 0) >> 1
+Push int >> 2
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 1
+Select queue (int : 1, double : 2, string : 3, Exit : 0) >> 1
+Push int >> 3
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 1
+Select queue (int : 1, double : 2, string : 3, Exit : 0) >> 2
+Push double >> 1.1
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 1
+Select queue (int : 1, double : 2, string : 3, Exit : 0) >> 2
+Push double >> 2.2
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 1
+Select queue (int : 1, double : 2, string : 3, Exit : 0) >> 2
+Push double >> 3.3
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 1
+Select queue (int : 1, double : 2, string : 3, Exit : 0) >> 3
+Push string >> a
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 1
+Select queue (int : 1, double : 2, string : 3, Exit : 0) >> 3
+Push string >> b
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 1
+Select queue (int : 1, double : 2, string : 3, Exit : 0) >> 3
+Push string >> c
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 3
+Items of int Queue :
+1 2 3
+Items of double Queue :
+1.1 2.2 3.3
+Items of string Queue :
+a b c
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 2
+Remove one item : 1, Remove all items : 2 (Exit : 0) >> 2
+Select queue (int : 1, double : 2, string : 3, Exit : 0) >> 1
+1 2 3
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 2
+Remove one item : 1, Remove all items : 2 (Exit : 0) >> 1
+Select queue (int : 1, double : 2, string : 3, Exit : 0) >> 3
+Item : a
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 2
+Remove one item : 1, Remove all items : 2 (Exit : 0) >> 1
+Select queue (int : 1, double : 2, string : 3, Exit : 0) >> 3
+Item : b
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 4
+Select queue (int : 1, double : 2, string : 3, Exit : 0) >> 1
+Yes
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 4
+Select queue (int : 1, double : 2, string : 3, Exit : 0) >> 2
+No
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 4
+Select queue (int : 1, double : 2, string : 3, Exit : 0) >> 3
+No
+Add : 1, Remove : 2, Copy Queue : 3, Is Empty? : 4, Exit : 0 >> 0

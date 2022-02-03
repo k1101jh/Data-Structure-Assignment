@@ -1,0 +1,28 @@
+Script started on 2018년 12월 24일 (월) 오후 05시 47분 08초
+]0;root@server: ~/cpp2/coderoot@server:~/cpp2/code# g++ -o Trie_word_count_test Th[Krie_word_count [K_test.cpp -s td=c++11
+]0;root@server: ~/cpp2/coderoot@server:~/cpp2/code# ./Trie_word_count_test The-Road-Not-Taken.trie
+
+input (Exit : "EXIT")> the
+9
+input (Exit : "EXIT")> abc   an 
+3
+input (Exit : "EXIT")> abcdef
+Not found
+input (Exit : "EXIT")> ta  not
+2
+input (Exit : "EXIT")> EXIT
+]0;root@server: ~/cpp2/coderoot@server:~/cpp2/code# ./Trie_word_count_test Dickens_Oliver_1839.tire[1Pe[1Pereie
+
+input (Exit : "EXIT")> the
+9497
+input (Exit : "EXIT")> a
+3760
+input (Exit : "EXIT")> abcdef
+Not found
+input (Exit : "EXIT")> not
+747
+input (Exit : "EXIT")> EXIT
+]0;root@server: ~/cpp2/coderoot@server:~/cpp2/code# exit
+exit
+
+Script done on 2018년 12월 24일 (월) 오후 05시 49분 22초

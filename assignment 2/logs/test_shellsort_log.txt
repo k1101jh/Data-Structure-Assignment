@@ -1,0 +1,12 @@
+Script started on 2018년 12월 04일 (화) 오후 11시 36분 10초
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# make
+g++ -lm -std=c++11 shellsort.o test_shellsort.o  -o test_shellsort
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# ./test_shellsort input.txt
+2 1 21 4 16 5 22 8 22 6 
+Input(K) >>2
+Shell Sort : 
+1 2 4 5 6 8 16 21 22 22 
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# exit
+exit
+
+Script done on 2018년 12월 04일 (화) 오후 11시 36분 29초

@@ -1,0 +1,14 @@
+Script started on 2018년 12월 24일 (월) 오후 05시 52분 59초
+]0;root@server: ~/cpp2/coderoot@server:~/cpp2/code# g++ -o test_Trie_Hash_comp test_Trie_Hash_comp.cpp -std =c++11
+]0;root@server: ~/cpp2/coderoot@server:~/cpp2/code# ./test_Trie_Hash_comp The-Road_[K-Not-Taken.trie The-Road- Not-Taken.hash
+N : 1000000
+trie elapsed_time: 0.0380721 sec
+hash elapsed_time: 0.0693493 sec
+]0;root@server: ~/cpp2/coderoot@server:~/cpp2/code# ./test_Trie_Hash_comp Dickens_P[KOliver_1839.trie Dickens_ Oliver_1839.hash
+N : 1000000
+trie elapsed_time: 0.0491359 sec
+hash elapsed_time: 0.183299 sec
+]0;root@server: ~/cpp2/coderoot@server:~/cpp2/code# exit
+exit
+
+Script done on 2018년 12월 24일 (월) 오후 05시 53분 58초

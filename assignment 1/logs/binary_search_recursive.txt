@@ -1,0 +1,11 @@
+>binarysearch_recursive input.txt
+찾으시려는 숫자를 입력해 주세요>> 29
+29는 7번째에 위치해 있습니다.
+
+>binarysearch_recursive input.txt
+찾으시려는 숫자를 입력해 주세요>> 98
+98는 15번째에 위치해 있습니다.
+
+>binarysearch_recursive input.txt
+찾으시려는 숫자를 입력해 주세요>> 84
+84는 14번째에 위치해 있습니다.

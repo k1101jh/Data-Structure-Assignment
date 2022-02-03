@@ -1,0 +1,19 @@
+Script started on 2018년 12월 25일 (화) 오후 07시 52분 58초
+]0;root@server: ~/cpp2/coderoot@server:~/cpp2/code# g++ -o RBtree_test RBtree_test.cpp -std=c++11
+]0;root@server: ~/cpp2/coderoot@server:~/cpp2/code# ./RBtree_test
+-----40
+ |----20
+ |   |----10
+ |   -----30
+ -----80
+   60*
+  |   |----50
+  |   -----70
+  -----100
+    90*
+
+
+]0;root@server: ~/cpp2/coderoot@server:~/cpp2/code# exit
+exit
+
+Script done on 2018년 12월 25일 (화) 오후 07시 53분 15초

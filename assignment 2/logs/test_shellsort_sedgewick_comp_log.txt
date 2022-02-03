@@ -1,0 +1,15 @@
+Script started on 2018년 12월 05일 (수) 오전 12시 01분 18초
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# g_[K++ -o test_shellsort_sedgewick_comp test_shellsort_sed gewick_comp.cpp -std=c++11
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# ./test_shellsort_e[Ksedgewick_comp
+N=1000, Pratt, K=3, elapsed_time: 0.000111103 sec
+N=1000, Sedgewick, elapsed_time: 0.000101089 sec
+N=10000, Pratt, K=3, elapsed_time: 0.00161099 sec
+N=10000, Sedgewick, elapsed_time: 0.00183296 sec
+N=100000, Pratt, K=3, elapsed_time: 0.0270212 sec
+N=100000, Sedgewick, elapsed_time: 0.021328 sec
+N=1000000, Pratt, K=3, elapsed_time: 0.390268 sec
+N=1000000, Sedgewick, elapsed_time: 0.280688 sec
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# exit
+exit
+
+Script done on 2018년 12월 05일 (수) 오전 12시 01분 50초

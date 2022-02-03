@@ -1,0 +1,10 @@
+Script started on 2018년 12월 24일 (월) 오후 05시 46분 10초
+]0;root@server: ~/cpp2/coderoot@server:~/cpp2/code# g++ -o Trie_word_count Trie_word_count.cpp -std=c++11
+]0;root@server: ~/cpp2/coderoot@server:~/cpp2/code# ./Trie_word_count The-Road-Not-Takens[K.tokens.c[Ktxt
+Saved!
+]0;root@server: ~/cpp2/coderoot@server:~/cpp2/code# ./Trie_word_count Dickens_Oliver_1839.tokens.txt
+Saved!
+]0;root@server: ~/cpp2/coderoot@server:~/cpp2/code# exit
+exit
+
+Script done on 2018년 12월 24일 (월) 오후 05시 46분 59초

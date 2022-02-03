@@ -1,0 +1,10 @@
+Script started on 2018년 12월 05일 (수) 오전 12시 33분 09초
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# g++ -o test_BST_Hash_comp test_BSt_Hash[K[K[K[K[K[KT_Hash_comp.cpp -std=c++11
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# ./test_BST_Hash_comp Dickens_Oliver_1839.wordcount Dickens_Oliver_1839.hash
+N : 1000000
+hash elapsed_time: 0.225985 sec
+binary elapsed_time: 0.526311 sec
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# exit
+exit
+
+Script done on 2018년 12월 05일 (수) 오전 12시 33분 41초

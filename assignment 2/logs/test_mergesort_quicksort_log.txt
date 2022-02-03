@@ -1,0 +1,24 @@
+Script started on 2018년 12월 05일 (수) 오전 12시 02분 00초
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# g++ -o test_mergesort [K_quicksort test_mergesort_quicksor t,c[K[K.cpp -std=c++11
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# ./test_mergesort_quicksort
+arySize >>50
+MaxNum >>50
+Random Array Generated!
+0 19 17 11 7 21 46 49 35 39 19 48 43 8 12 
+7 46 25 35 22 43 15 46 22 24 44 44 10 15 14 
+26 15 33 44 28 42 17 27 42 2 16 13 3 9 22 
+17 17 20 42 4 
+Mergesort : 
+0 2 3 4 7 7 8 9 10 11 12 13 14 15 15 
+15 16 17 17 17 17 19 19 20 21 22 22 22 24 25 
+26 27 28 33 35 35 39 42 42 42 43 43 44 44 44 
+46 46 46 48 49 
+Quicksort : 
+0 2 3 4 7 7 8 9 10 11 12 13 14 15 15 
+15 16 17 17 17 17 19 19 20 21 22 22 22 24 25 
+26 27 28 33 35 35 39 42 42 42 43 43 44 44 44 
+46 46 46 48 49 
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# exit
+exit
+
+Script done on 2018년 12월 05일 (수) 오전 12시 02분 35초

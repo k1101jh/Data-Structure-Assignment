@@ -1,0 +1,11 @@
+>binarysearch_iterative input2.txt
+찾으시려는 숫자를 입력해 주세요: 1
+1는 1번째에 위치해 있습니다.
+
+>binarysearch_iterative input2.txt
+찾으시려는 숫자를 입력해 주세요: 20
+20는 14번째에 위치해 있습니다.
+
+>binarysearch_iterative input2.txt
+찾으시려는 숫자를 입력해 주세요: 28
+28는 19번째에 위치해 있습니다.

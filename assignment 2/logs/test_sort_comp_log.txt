@@ -1,0 +1,27 @@
+Script started on 2018년 12월 05일 (수) 오전 12시 02분 48초
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# g++ -o test_sort_comp test_sort_comp.cpp -std=c++11
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# ./test_sort_comp
+N=1000, Shellsort-Pratt, K=3, elapsed_time: 0.000111103 sec
+N=1000, Shellsort-Sedgewick, elapsed_time: 0.000100851 sec
+N=1000, Mergesort, elapsed_time: 0.000499964 sec
+N=1000, Quicksort, elapsed_time: 0.000115156 sec
+N=10000, Shellsort-Pratt, K=3, elapsed_time: 0.00174308 sec
+N=10000, Shellsort-Sedgewick, elapsed_time: 0.00153685 sec
+N=10000, Mergesort, elapsed_time: 0.00170708 sec
+N=10000, Quicksort, elapsed_time: 0.00183702 sec
+N=100000, Shellsort-Pratt, K=3, elapsed_time: 0.0267529 sec
+N=100000, Shellsort-Sedgewick, elapsed_time: 0.0209401 sec
+N=100000, Mergesort, elapsed_time: 0.024153 sec
+N=100000, Quicksort, elapsed_time: 0.0370409 sec
+N=1000000, Shellsort-Pratt, K=3, elapsed_time: 0.429538 sec
+N=1000000, Shellsort-Sedgewick, elapsed_time: 0.312128 sec
+N=1000000, Mergesort, elapsed_time: 0.266293 sec
+N=1000000, Quicksort, elapsed_time: 0.26177 sec
+N=10000000, Shellsort-Pratt, K=3, elapsed_time: 8.38767 sec
+N=10000000, Shellsort-Sedgewick, elapsed_time: 4.2409 sec
+N=10000000, Mergesort, elapsed_time: 4.90914 sec
+N=10000000, Quicksort, elapsed_time: 2.72248 sec
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# eixt[K[K[Kxit
+exit
+
+Script done on 2018년 12월 05일 (수) 오전 12시 03분 31초

@@ -1,0 +1,19 @@
+Script started on 2018년 12월 04일 (화) 오후 11시 36분 45초
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# g++ -o test_shellsort_comp test_shellsort_comp.cpp -std =c++11
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# ./test_shellsort_comp
+N=1000, K=1, elapsed_time: 0.000789881 sec
+N=1000, K=2, elapsed_time: 0.000144005 sec
+N=1000, K=3, elapsed_time: 0.000160933 sec
+N=10000, K=1, elapsed_time: 0.076025 sec
+N=10000, K=2, elapsed_time: 0.0019722 sec
+N=10000, K=3, elapsed_time: 0.00166917 sec
+N=100000, K=1, elapsed_time: 7.18599 sec
+N=100000, K=2, elapsed_time: 0.044683 sec
+N=100000, K=3, elapsed_time: 0.0275431 sec
+N=1000000, K=1, elapsed_time: 767.797 sec
+N=1000000, K=2, elapsed_time: 0.459757 sec
+N=1000000, K=3, elapsed_time: 0.392503 sec
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# exit
+exit
+
+Script done on 2018년 12월 04일 (화) 오후 11시 57분 28초

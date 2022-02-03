@@ -1,0 +1,61 @@
+Script started on 2018년 12월 04일 (화) 오후 11시 32분 45초
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# g++ -o test_BST test_BST.cpp -std=c++11
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# ./test_BST
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 1
+Key(string) >> abc
+abc 1
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 1
+Key(string) >> bcd
+abc 1
+bcd 1
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 1
+Key(string) >> def
+abc 1
+bcd 1
+def 1
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 3
+Key(string) >> efg
+No Such Node
+abc 1
+bcd 1
+def 1
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 3
+Key(string) >> def
+result : 
+	Key : def
+	Count : 1
+abc 1
+bcd 1
+def 1
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 4
+Key(string) >> abc
+abc 2
+bcd 1
+def 1
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 4
+Key(string) >> def
+abc 2
+bcd 1
+def 2
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 4
+Key(string) >> efg
+abc 2
+bcd 1
+def 2
+efg 1
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 2
+Key(string) >> bcd
+abc 2
+def 2
+efg 1
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 2
+Key(string) >> fgh
+No Record with Such Key
+abc 2
+def 2
+efg 1
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 0
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# exit
+exit
+
+Script done on 2018년 12월 04일 (화) 오후 11시 33분 41초

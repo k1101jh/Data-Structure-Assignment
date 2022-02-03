@@ -1,0 +1,19 @@
+Script started on 2018년 12월 05일 (수) 오전 12시 03분 41초
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# g++ -o test_countingsort_[K test_counr[Ktingsort_[K.cpp -std=c++ 11
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# ./test_countingsort
+arySize >>50
+MaxNum >>50
+Random Array Generated!
+47 18 44 34 11 10 39 36 6 4 19 48 28 38 11 
+44 35 41 13 41 10 4 21 35 12 18 39 17 37 45 
+45 34 15 39 18 29 1 7 15 10 13 34 8 44 25 
+21 40 12 14 6 
+Counting sort : 
+1 4 4 6 6 7 8 10 10 10 11 11 12 12 13 
+13 14 15 15 17 18 18 18 19 21 21 25 28 29 34 
+34 34 35 35 36 37 38 39 39 39 40 41 41 44 44 
+44 45 45 47 48 
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# exit
+exit
+
+Script done on 2018년 12월 05일 (수) 오전 12시 04분 07초

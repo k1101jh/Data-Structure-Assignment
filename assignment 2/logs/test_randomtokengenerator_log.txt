@@ -1,0 +1,8 @@
+Script started on 2018년 12월 05일 (수) 오전 12시 04분 22초
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# g++ -o test_rad[Kndomtokengenerator test_randomtokengenera tor [K.cpp -std=c++11
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# ./test_randomtokengenerator word_length_stat.txt
+Tokens Saved!
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# exit
+exit
+
+Script done on 2018년 12월 05일 (수) 오전 12시 04분 56초

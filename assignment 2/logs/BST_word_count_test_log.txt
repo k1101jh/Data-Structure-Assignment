@@ -1,0 +1,32 @@
+Script started on 2018년 12월 05일 (수) 오전 12시 09분 24초
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# g++ -o BSt_w[K[K[KT_word_count_test BST_word_count_test.c[[Kpp -std =c++11
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# ./BST_word_count_test The-Road-Not-Taken.wordcount
+Loading is complete
+input (Exit : "EXIT")> and
+9
+input (Exit : "EXIT")> a
+3
+input (Exit : "EXIT")> abcdef
+Not found
+input (Exit : "EXIT")> taken
+1
+input (Exit : "EXIT")> not
+2
+input (Exit : "EXIT")> EXIT
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# ./BST_word_count_test Dickens_Oliver_1839.wordcount
+Loading is complete
+input (Exit : "EXIT")> and
+5239
+input (Exit : "EXIT")> a
+3760
+input (Exit : "EXIT")> abcdef
+Not found
+input (Exit : "EXIT")> oliver
+864
+input (Exit : "EXIT")> not
+747
+input (Exit : "EXIT")> EXIT
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# exit
+exit
+
+Script done on 2018년 12월 05일 (수) 오전 12시 10분 33초

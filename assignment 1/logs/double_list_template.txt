@@ -1,0 +1,72 @@
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 1
+int List : 1, double List : 2, string List : 3 >> 1
+Insert Position and item >> 1 1
+List item : 1
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 1
+int List : 1, double List : 2, string List : 3 >> 1
+Insert Position and item >> 2 2
+List item : 1 2
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 1
+int List : 1, double List : 2, string List : 3 >> 1
+Insert Position and item >> 3 3
+List item : 1 2 3
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 1
+int List : 1, double List : 2, string List : 3 >> 2
+Insert Position and item >> 1 1.1
+List item : 1.1
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 1
+int List : 1, double List : 2, string List : 3 >> 2
+Insert Position and item >> 2 2.2
+List item : 1.1 2.2
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 1
+int List : 1, double List : 2, string List : 3 >> 2
+Insert Position and item >> 3 3.3
+List item : 1.1 2.2 3.3
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 1
+int List : 1, double List : 2, string List : 3 >> 3
+Insert Position and item >> 1 a
+List item : a
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 1
+int List : 1, double List : 2, string List : 3 >> 3
+Insert Position and item >> 2 b
+List item : a b
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 1
+int List : 1, double List : 2, string List : 3 >> 3
+Insert Position and item >> 3 c
+List item : a b c
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 3
+int List : 1, double List : 2, string List : 3 >> 1
+Retrieve Position >> 1
+item : 1
+List item : 1 2 3
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 3
+int List : 1, double List : 2, string List : 3 >> 2
+Retrieve Position >> 2
+item : 2.2
+List item : 1.1 2.2 3.3
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 3
+int List : 1, double List : 2, string List : 3 >> 3
+Retrieve Position >> 3
+item : c
+List item : a b c
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 2
+int List : 1, double List : 2, string List : 3 >> 1
+Delete Position >> 3
+List item : 1 2
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 2
+int List : 1, double List : 2, string List : 3 >> 2
+Delete Position >> 2
+List item : 1.1 3.3
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 2
+int List : 1, double List : 2, string List : 3 >> 3
+Delete Position >> 1
+List item : b c
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 4
+int List : 1, double List : 2, string List : 3 >> 1
+New int list : 1 2
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 4
+int List : 1, double List : 2, string List : 3 >> 2
+New double list : 1.1 3.3
+Insert : 1, Delete : 2, Retrieve : 3, Copy List : 4, Is Empty? : 5, Length : 6, Exit : 0 >> 4
+int List : 1, double List : 2, string List : 3 >> 3
+New string list : b c

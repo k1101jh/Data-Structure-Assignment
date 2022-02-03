@@ -1,0 +1,62 @@
+Script started on 2018년 12월 05일 (수) 오전 12시 10분 47초
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# g++ -o test_Hash test_Hash.cpp -std=c++11
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# ./test_Hash
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 1
+Key(string) >> abc
+hash : 94	key : abc	count : 1	
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 1
+Key(string) >> bcd
+hash : 94	key : abc	count : 1	
+hash : 97	key : bcd	count : 1	
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 1
+Key(string) >> def
+hash : 3	key : def	count : 1	
+hash : 94	key : abc	count : 1	
+hash : 97	key : bcd	count : 1	
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 3
+Key(string) >> efg
+No Such Node
+hash : 3	key : def	count : 1	
+hash : 94	key : abc	count : 1	
+hash : 97	key : bcd	count : 1	
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 3
+Key(string) >> def
+result : 
+	Key : def
+	Count : 1
+hash : 3	key : def	count : 1	
+hash : 94	key : abc	count : 1	
+hash : 97	key : bcd	count : 1	
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 4
+Key(string) >> abc
+hash : 3	key : def	count : 1	
+hash : 94	key : abc	count : 2	
+hash : 97	key : bcd	count : 1	
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 4
+Key(string) >> def
+hash : 3	key : def	count : 2	
+hash : 94	key : abc	count : 2	
+hash : 97	key : bcd	count : 1	
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 4
+Key(string) >> efg
+hash : 3	key : def	count : 2	
+hash : 6	key : efg	count : 1	
+hash : 94	key : abc	count : 2	
+hash : 97	key : bcd	count : 1	
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 2
+Key(string) >> bcd
+key : bcd	count : 1
+hash : 3	key : def	count : 2	
+hash : 6	key : efg	count : 1	
+hash : 94	key : abc	count : 2	
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 2
+Key(string) >> fgh
+No Record with Such Key
+hash : 3	key : def	count : 2	
+hash : 6	key : efg	count : 1	
+hash : 94	key : abc	count : 2	
+Insert : 1, Delete : 2, Search : 3, Update : 4, Exit : 0 >> 0
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# exit
+exit
+
+Script done on 2018년 12월 05일 (수) 오전 12시 11분 34초

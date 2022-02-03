@@ -1,0 +1,10 @@
+Script started on 2018년 12월 05일 (수) 오전 12시 11분 51초
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# g++ -o Hash_word_count Hash_word_count.cpp -std=c++11
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# ./Hash_word_count The-Road-Not-Taken.tokens.txt
+Saved!
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# ./Hash_word_count Dickens_Oliver_1839.tokens.txt
+Saved!
+]0;root@server: ~/cpp/finalroot@server:~/cpp/final# exit
+exit
+
+Script done on 2018년 12월 05일 (수) 오전 12시 12분 33초
